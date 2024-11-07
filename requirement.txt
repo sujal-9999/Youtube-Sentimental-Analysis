@@ -1,6 +1,0 @@
-pandas
-joblib
-numpy
-neattext
-chart_studio
-sqlite3 

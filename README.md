@@ -78,22 +78,4 @@ python app.py
 
 Feel free to fork this project and submit pull requests for improvements, bug fixes, or additional features. Contributions are always welcome!
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-### Steps to include:
-1. **Google Drive Link**: The Google Drive link is placed under the **Pre-trained Model** section so that users can download the necessary `.pkl` files.
-2. **Project Structure**: I’ve provided an example directory structure so users can understand how the project is organized.
-3. **Instructions to Install and Run**: Clear steps for setting up and running the project, including the necessary dependencies.
-
-#### Additional Notes:
-- Ensure that your **`random_forest_model.pkl`** is placed in the **root directory** of the project or specify the path where it's located.
-- You may also include a `requirements.txt` file in the root directory listing the dependencies, which can be generated using:
-
-```bash
-pip freeze > requirements.txt
-```
-
-This structure will provide clear guidance to users or collaborators who want to set up your project. Let me know if you need any changes!

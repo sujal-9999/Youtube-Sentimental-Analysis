@@ -171,8 +171,8 @@ def generate_sunburst_chart(youtube_url):
     """## Printing the sunburst chart"""
 
    
-    username = 'pranay777'
-    api_key = 'XT6nm1Hb4xFrcucT8k0g'
+    username = '###'
+    api_key = '###'
 
     # Set Chart Studio credentials
     chart_studio.tools.set_credentials_file(username=username, api_key=api_key)
